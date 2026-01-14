@@ -1,3 +1,3 @@
 # demo
 first github repo
-Author - Guraansh 
+Author - Guraansh rai
